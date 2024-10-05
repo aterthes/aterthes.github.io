@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aterthes.github.io/sitemap.html.gz
+Sitemap: https://aterthes.github.io/app/sitemap.html.gz
+Sitemap: https://aterthes.github.io/assets/sitemap.html.gz
+Sitemap: https://aterthes.github.io/css/sitemap.html.gz
+Sitemap: https://aterthes.github.io/data/sitemap.html.gz
+Sitemap: https://aterthes.github.io/includes/sitemap.html.gz
+Sitemap: https://aterthes.github.io/item/sitemap.html.gz
+Sitemap: https://aterthes.github.io/src/sitemap.html.gz
